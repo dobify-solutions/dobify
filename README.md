@@ -27,6 +27,6 @@ domains are [dobify.dev](https://dobify.dev) and
 crypto project that share the name.
 
 - Website: [dobify.dev](https://dobify.dev) (English) · [dobify.dev/pl](https://dobify.dev/pl/) (polski)
-- LinkedIn: [https://www.linkedin.com/company/dobify/]
+- LinkedIn: [Dobify](https://www.linkedin.com/company/dobify/)
 - Not sure what to automate first? The
   [free 30-minute audit](https://dobify.dev/en/free-audit/) puts a number on it.
